@@ -1,1 +1,39 @@
 # A-Beginner-s-Guide-to-GIt-and-Markdown
+
+### Содержание
+
+* Введение
+* Markdown
+    
+    * Содержание
+    * Заголовки
+    * Заголовки  
+    * Начертание 
+    * Списки
+    * Ссылки
+    * Изображения
+    * Подсветка кода и выделение элементов
+    * Таблицы
+    * Цитаты
+    * Уведомления
+    * Линия (как под темой)
+
+* Git
+    * Общие сведения
+    * Команды 
+
+        1. git config --global
+        2. git --version
+        3. git init 
+        4. git add 
+        5. git commit
+        6. git status
+        7. git log
+        8. git checkout
+        9. git diff
+        10. git branch
+        11. git clone
+        12. git pull
+        13. git push
+
+* Работа с GitHub
